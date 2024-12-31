@@ -1,0 +1,20 @@
+.footer{
+    padding-left: 60px;
+    padding-top: 50px;
+    display: flex;
+    background-color: #fbfbfb;
+    color: #666;
+    cursor: pointer;
+}
+.firstsection{
+    padding-top: 40px;
+    padding-left: 60px;
+    padding-right: 50px;
+    justify-content: space-evenly;
+
+}
+.secondsection{
+    display: flex;
+    color: #666;
+    column-gap: 60px;
+}

@@ -1,0 +1,85 @@
+.main{
+    padding-left: 60px;
+    cursor: pointer;
+}
+.firstsection{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 60px;
+    padding: 0px 60px;
+    color: #424242;
+    cursor: pointer;
+}
+#signup{
+    background-color: #387ed1;
+    color: white;
+    padding: 10px 30px;
+    font-size: 22px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.secondsection{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 30px;
+    color: #424242;
+    
+}
+.secondsection h1{
+    font-size: 2rem;
+    color: #424242;
+    cursor: pointer;
+}
+h2{
+    font-size: 1.25rem;
+    color: #424242;
+    cursor: pointer;
+}
+p{
+    font-size: 1rem;
+    columns: #666;
+    cursor: pointer;
+}
+.news{
+    display: flex;
+    margin: auto;
+    cursor: pointer;
+}
+.thirdsection{
+    display: flex;
+    color: #424242;
+    padding: 0px 60px;
+    cursor: pointer;
+}
+.secondpart{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+.link{
+    text-decoration: none;
+}
+.fourthsection{
+    padding: 0px 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+}
+.varsity{
+    color: #424242;
+    display: flex;
+    flex-direction: column;
+    cursor: pointer;
+}
+.anch{
+    text-decoration: none;
+}
+.fifthsection{
+    color: #424242;
+    text-align: center;
+    cursor: pointer;
+}

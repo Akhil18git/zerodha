@@ -1,0 +1,21 @@
+#heading{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    column-gap: 30px;
+    padding-left: 60px;
+    padding-right: 60px;
+    border-bottom: 1px solid #bbb;
+    cursor: pointer;
+}
+
+ul{
+    display: flex;
+    column-gap: 50px;
+}
+
+li{
+    list-style: none;
+    font-size: 20px;
+    column-gap: 50pxS;
+}
